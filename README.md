@@ -1,5 +1,5 @@
-[![header](./header.png)](https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-logo)
-[![Animation](folding_cell_preview.gif)](https://dribbble.com/shots/2121350-Delivery-Card)
+![header](./header.png)
+![Animation](folding_cell_preview.gif)
 
 # FoldingCell for Android
 [![Circle CI](https://circleci.com/gh/Ramotion/folding-cell-android.svg?style=svg)](https://circleci.com/gh/Ramotion/folding-cell-android)
