@@ -2,27 +2,23 @@
 [![Animation](folding_cell_preview.gif)](https://dribbble.com/shots/2121350-Delivery-Card)
 The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android).
 # FoldingCell for Android
-FoldingCell is an expanding content cell inspired by folding paper material https://ramotion.com/gthb
 [![Circle CI](https://circleci.com/gh/Ramotion/folding-cell-android.svg?style=svg)](https://circleci.com/gh/Ramotion/folding-cell-android)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/339ae33122964163a55a5e8e90619cbc)](https://www.codacy.com/app/juri-v/folding-cell-android)
 [![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
 [![Analytics](https://ga-beacon.appspot.com/UA-84973210-1/ramotion/folding-cell-android?pixel)](https://github.com/igrigorik/ga-beacon)
 
-## About
+FoldingCell is an expanding content cell inspired by folding paper material https://ramotion.com/gthb
+
 This project is maintained by Ramotion, Inc.<br>
 We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br><br>**Looking for developers for your project?** 
-
 <a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch" > 
 <img src="https://github.com/Ramotion/navigation-stack/raw/master/contact_our_team@2x.png" width="150" height="30"></a>	
 
-
 ## Requirements
-​
 - Android 4.0 IceCreamSandwich (API lvl 14) or greater
 - Your favorite IDE
 
 ## Installation
-​
 Just download the package from [here](http://central.maven.org/maven2/com/ramotion/foldingcell/folding-cell/1.2.1/folding-cell-1.2.1.aar) and add it to your project classpath, or just use the maven repo:
 
 Gradle:
