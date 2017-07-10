@@ -1,18 +1,21 @@
 [![header](./header.png)](https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-logo)
 [![Animation](folding_cell_preview.gif)](https://dribbble.com/shots/2121350-Delivery-Card)
-The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android).
+
+# FoldingCell for Android
 [![Circle CI](https://circleci.com/gh/Ramotion/folding-cell-android.svg?style=svg)](https://circleci.com/gh/Ramotion/folding-cell-android)
 [![Codacy Badge](https://api.codacy.com/project/badge/grade/339ae33122964163a55a5e8e90619cbc)](https://www.codacy.com/app/juri-v/folding-cell-android)
 [![Twitter](https://img.shields.io/badge/Twitter-@Ramotion-blue.svg?style=flat)](http://twitter.com/Ramotion)
-[![Analytics](https://ga-beacon.appspot.com/UA-84973210-1/ramotion/folding-cell-android?pixel)](https://github.com/igrigorik/ga-beacon)
-# FoldingCell for Android
-FoldingCell is an expanding content cell inspired by folding paper material https://ramotion.com/gthb
+[![Analytics](https://ga-beacon.appspot.com/UA-84973210-1/ramotion/folding-cell-android?pixel)](https://github.com/igrigorik/ga-beacon)<br>
 
+FoldingCell is an expanding content cell inspired by folding paper material https://ramotion.com/gthb<br>
+The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android).
+
+**Looking for developers for your project?**<br>
 This project is maintained by Ramotion, Inc.<br>
-We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br><br>**Looking for developers for your project?**
+We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
 <a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch" > 
-<img src="https://github.com/Ramotion/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>	
+<img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>	
 
 ## Requirements
 - Android 4.0 IceCreamSandwich (API lvl 14) or greater
