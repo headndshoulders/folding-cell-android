@@ -12,7 +12,7 @@ This project is maintained by Ramotion, Inc.<br>
 We specialize in the designing and coding of custom UI for Mobile Apps and Websites.<br><br>**Looking for developers for your project?**
 
 <a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch" > 
-<img src="https://github.com/Ramotion/navigation-stack/raw/master/contact_our_team@2x.png" width="150" height="30"></a>	
+<img src="https://github.com/Ramotion/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>	
 
 ## Requirements
 - Android 4.0 IceCreamSandwich (API lvl 14) or greater
