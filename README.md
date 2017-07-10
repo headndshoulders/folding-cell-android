@@ -149,7 +149,8 @@ See [LICENSE](./LICENSE.md) for details.
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
 
 ## Try this and more other UI components in the Showroom app
-<a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch" > 
+<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-folding-cell&mt=8" > 
 <img src="https://github.com/headndshoulders/folding-cell-android/raw/master/app_store@2x.png" width="117" height="34"></a>
-<a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-folding-cell&mt=8"> 
+
+<a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
 <img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>
