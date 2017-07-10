@@ -144,8 +144,8 @@ You can find this and other, more complex, examples in this repository
 Folding cell is released under the MIT license.
 See [LICENSE](./LICENSE.md) for details.
 
-# Get the Showroom App to try the UI components like this
-We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
+# Get the Showroom App to give it a try
+Try this UI component and more like this in our iOS app. Contact us if interested.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-folding-cell&mt=8" > 
 <img src="https://github.com/headndshoulders/folding-cell-android/raw/master/app_store@2x.png" width="117" height="34"></a>
