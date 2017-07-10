@@ -144,15 +144,15 @@ You can find this and other, more complex, examples in this repository
 Folding cell is released under the MIT license.
 See [LICENSE](./LICENSE.md) for details.
 
-## Try this and way more controls in the Showroom app
+## Get the Showroom iOS App to try this and more UI components
 We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-folding-cell&mt=8" > 
 <img src="https://github.com/headndshoulders/folding-cell-android/raw/master/app_store@2x.png" width="117" height="34"></a>
 
 <a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
-<img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>
+<img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a> <br>
 
-Follow us 
+Follow us <br>
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/foolding-cell-android)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
