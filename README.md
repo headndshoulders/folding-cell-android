@@ -11,8 +11,7 @@ FoldingCell is an expanding content cell inspired by folding paper material http
 The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android) available [here](https://store.ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android).
 
 **Looking for developers for your project?**<br>
-This project is maintained by Ramotion, Inc.<br>
-We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
+This project is maintained by Ramotion, Inc. We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
 <a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
 <img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="187" height="34"></a> <br>
@@ -144,7 +143,7 @@ You can find this and other, more complex, examples in this repository
 Folding cell is released under the MIT license.
 See [LICENSE](./LICENSE.md) for details.
 
-# Get the Showroom App to give it a try
+# Get the Showroom App for iOS to give it a try
 Try this UI component and more like this in our iOS app. Contact us if interested.
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-folding-cell&mt=8" > 
