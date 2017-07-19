@@ -14,8 +14,8 @@ The [Android mockup](https://store.ramotion.com?utm_source=gthb&utm_medium=speci
 This project is maintained by Ramotion, Inc.<br>
 We specialize in the designing and coding of custom UI for Mobile Apps and Websites.
 
-<a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch" > 
-<img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>	
+<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
+<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="166" height="34"></a> <br>
 
 ## Requirements
 - Android 4.0 IceCreamSandwich (API lvl 14) or greater
@@ -149,9 +149,8 @@ Try this UI component and more like this in our iOS app. Contact us if intereste
 
 <a href="https://itunes.apple.com/app/apple-store/id1182360240?pt=550053&ct=gthb-folding-cell&mt=8" > 
 <img src="https://github.com/headndshoulders/folding-cell-android/raw/master/app_store@2x.png" width="117" height="34"></a>
-
-<a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
-<img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>
+<a href="https://ramotion.com/?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
+<img src="https://github.com/headndshoulders/gliding-collection/raw/master/contact_our_team@2x.png" width="166" height="34"></a>
 <br>
 <br>
 
