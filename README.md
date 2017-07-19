@@ -151,8 +151,12 @@ Try this UI component and more like this in our iOS app. Contact us if intereste
 <img src="https://github.com/headndshoulders/folding-cell-android/raw/master/app_store@2x.png" width="117" height="34"></a>
 
 <a href="https://ramotion.com?utm_source=gthb&utm_medium=special&utm_campaign=folding-cell-android-contact-us/#Get_in_Touch"> 
-<img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a> <br>
+<img src="https://github.com/headndshoulders/folding-cell-android/raw/master/contact_our_team@2x.png" width="152" height="34"></a>
+<br>
+<br>
 
-Follow us for the latest updates<br>
+Follow us for the latest updates
+<br>
+<br>
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=https://github.com/ramotion/foolding-cell-android)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ramotion.svg?style=social)](https://twitter.com/ramotion)
